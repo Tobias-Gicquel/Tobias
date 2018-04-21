@@ -5,10 +5,10 @@
     <title>gicquel.tk</title>
   </head>
   <body>
-    <h1 style=" text-align: center;"><b>Gicquel.TK</b></h1>
+    <p style="text-align: center;"><b>Gicquel.TK</b></p>
     <p style="text-align: center;"><br>
     </p>
-    <h4 style=" text-align: center;">Tobias Gicquel</h4>
+    <p style="text-align: center;">Tobias Gicquel</p>
     <p style="text-align: center;">Dev web et White hat (hacker pacifique)</p>
     <p style="text-align: center;">Contact:</p>
     <p style="text-align: center;"><a href="mailto:tobias@gicquel.tk">tobias@gicquel.tk
@@ -21,8 +21,12 @@
     </p>
     <p style="text-align: center;"><br>
     </p>
-    <h1 style=" text-align: center;">SITE EN MAINTENANCE...</h1>
+    <p style="text-align: center;">SITE EN MAINTENANCE...</p>
     <p style="text-align: center;">Repassez plus tard</p>
+    <p style="text-align: center;"><br>
+    </p>
+    <p style="text-align: center;"><br>
+    </p>
     <p style="text-align: center;"><br>
     </p>
     <p style="text-align: center;"><br>
